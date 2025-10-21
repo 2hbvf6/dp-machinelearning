@@ -37,3 +37,4 @@ with st.expander('Data visualization'):
         y=y_axis,
         color='label'
     )
+)
